@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "flask>=3.1.2",
+    "ipykernel>=7.1.0",
     "joblib>=1.5.2",
     "kagglehub>=0.3.13",
     "matplotlib>=3.10.7",
