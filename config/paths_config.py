@@ -24,6 +24,7 @@ y_TEST_LOAD_PATH = 'artifacts/processed/y_test.pkl'
 # Model Training
 MODEL_PATH = "artifacts/models"
 SAVE_MODEL_PATH = os.path.join(MODEL_PATH, "dt_model.pkl")
+SAVED_MODEL_PATH = "artifacts/models/dt_model.pkl"
 
 # Visuals Path
 VISUALS_PATH = "artifacts/visuals"
